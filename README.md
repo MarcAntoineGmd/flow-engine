@@ -327,4 +327,4 @@ The application is meant to be used with audio you have the right to process. Do
 * Phase 6: Transition engine (beat-aligned extraction, time-stretch, equal-power crossfade).
 * Phase 7: Transition quality scoring (composite score and candidate ranking).
 * Phase 8: Machine learning (feature vector and dataset builder).
-* Phase 9: Dataset collection (human ratings of transitions). Up next.
+* Phase 9: Dataset collection (human ratings of transitions).
